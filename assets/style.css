@@ -1,0 +1,78 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+/* Colors */
+:root {
+  --primary-color: #4CAF50;
+  --secondary-color: #FFC107;
+  --text-color: #333;
+}
+
+/* General Styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: bold;
+}
+
+p {
+  margin: 0;
+}
+
+/* Buttons */
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: var(--primary-color);
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--secondary-color);
+}
+
+/* Faculty Info */
+.faculty-info-container {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.faculty-name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.faculty-affiliation {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.faculty-position {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Publication Widget */
+.publication-container{
+  font-family: Arial, sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+/* Network Widget */
+.network-container{
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+}
