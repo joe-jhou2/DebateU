@@ -1,4 +1,4 @@
 # Ignore sensitive files
 adapters/mysql_adapter.py
 adapters/mongo_adapter.py
-.venv
+.venv/
