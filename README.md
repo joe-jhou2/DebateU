@@ -1,5 +1,5 @@
 # DebateU: Academic Faculty Debate Simulator
-# Link: http://54.193.249.61:8080
+### Link: http://54.193.249.61:8080
 
 DebateU is an interactive web application designed to simulate academic debates between faculty members from different universities. 
 The application randomly selects faculty members to compete on various research topics, 
