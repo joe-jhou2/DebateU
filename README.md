@@ -1,5 +1,4 @@
 # DebateU: Academic Faculty Debate Simulator
-### Link: http://54.193.249.61:8080
 
 DebateU is an interactive web application designed to simulate academic debates between faculty members from different universities. 
 The application randomly selects faculty members to compete on various research topics, 
@@ -7,6 +6,9 @@ providing users with both entertainment and insights into academic strengths acr
 
 ## Authorship
 Joe Hou and Tsekinovsky Boris designed and developed this application in April 2023. Joe Hou later updated the code and managed its deployment.
+
+
+● Demo: https://mediaspace.illinois.edu/media/t/1_frnspqwa
 
 ## Usage
 
